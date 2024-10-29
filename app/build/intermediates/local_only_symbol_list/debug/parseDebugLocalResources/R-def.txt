@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color backgroundColor
+color black
+color primaryColor
+color secondaryColor
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_logo
+id loadingTextView
+id logoImageBg
+id logoImageFg
+id main
+id splash
+layout activity_login
+layout activity_main
+layout activity_splash
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.UnHackableApp
+style Theme.UnHackableApp
+xml backup_rules
+xml data_extraction_rules
