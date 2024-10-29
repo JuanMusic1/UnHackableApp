@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UnHackableApp"
+rootProject.name = "UnhackableApp"
 include(":app")
